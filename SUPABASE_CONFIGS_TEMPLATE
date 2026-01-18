@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Project 1",
+    "url": "https://your-url-1.supabase.co",
+    "key": "your-anon-key-1"
+  },
+  {
+    "name": "Project 2",
+    "url": "https://your-url-2.supabase.co",
+    "key": "your-anon-key-2"
+  },
+  {
+    "name": "Project 3",
+    "url": "https://your-url-3.supabase.co",
+    "key": "your-anon-key-3"
+  },
+  {
+    "name": "Project 4",
+    "url": "https://your-url-4.supabase.co",
+    "key": "your-anon-key-4"
+  },
+  {
+    "name": "Project 5",
+    "url": "https://your-url-5.supabase.co",
+    "key": "your-anon-key-5"
+  },
+  {
+    "name": "PLACEHOLDER 6",
+    "url": "https://placeholder-6.supabase.co",
+    "key": "placeholder-key"
+  },
+  {
+    "name": "PLACEHOLDER 7",
+    "url": "https://placeholder-7.supabase.co",
+    "key": "placeholder-key"
+  },
+  {
+    "name": "PLACEHOLDER 8",
+    "url": "https://placeholder-8.supabase.co",
+    "key": "placeholder-key"
+  }
+]
